@@ -4,8 +4,6 @@ date: 2018-12-21
 tags: ["alertdialog", "android", "dialogs", "android studio"]
 ---
 
-### Nedir?
-
 Android Studio üzerinde uygulama geliştirirken şöyle bir durum ile karşılaştım. 
 Layout kullanmadan bir dialog oluşturmam gerekiyordu. Bu dilog üzerindeki butonun onclick durumu tetiklendiğinde işlem yaptırmam gerekiyordu.
 Bu durum için alertdialog kullandım. Eğer istediğiniz boyutlarda ve özelliklerde dialog olsun isterseniz layout ile birlikte custom dialog kullanabilirsiniz. 

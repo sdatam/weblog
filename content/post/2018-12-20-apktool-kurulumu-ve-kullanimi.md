@@ -4,8 +4,6 @@ date: 2018-12-20
 tags: ["android", "apktool", "tools", "reverse engineering","terminal"]
 ---
 
-### Nedir?
-
 Apktool reverse engineering için kullanılır 3rd party Android uygulamaların apk dosyalarını decompile ederek smali kodlarına dönüştürür. AndroidManifest.xml dosyasını görebilirsiniz. Uygulamaları analiz etmek için kullanabilir. İsterseniz recompile edebilirsiniz.
 
 

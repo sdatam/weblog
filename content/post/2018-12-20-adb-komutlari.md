@@ -4,8 +4,6 @@ date: 2018-12-20
 tags: ["adb", "android", "console", "terminal", "tools"]
 ---
 
-### Nedir?
-
 Android Debug Bridge(adb) Android geliştiricilerinin kullandığı bir komut kütüphanesidir. ADB, emulator ya da bilgisayarınıza bağlı fiziksel cihazınızla iletişim kurulmasını sağlar.
 
 <!--more-->
