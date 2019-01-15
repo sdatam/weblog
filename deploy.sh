@@ -2,6 +2,12 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+git add content/*
+
+git commit -am "add mew content"
+
+git push origin master
+
 # Build the project.
 hugo -t beautifulhugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
